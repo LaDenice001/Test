@@ -1,2 +1,2 @@
 # Test
-testing my knowledge on git
+testing my knowledge on git and GitHub
